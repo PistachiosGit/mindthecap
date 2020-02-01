@@ -1,8 +1,8 @@
 ---
-title: Home
+title: MindTheCap
 menus:
   main:
-    title: Home
+    title: MindTheCap
     weight: 1
 template: home
 ---
